@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: d358538bc1308471dba72e9baf7c0f85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3648150088454067864
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_0
+  - first:
+      213: 292507708691586783
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_1
+  - first:
+      213: 5199090860660059642
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_2
+  - first:
+      213: 132933354886087977
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_3
+  - first:
+      213: -774698422039009732
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_4
+  - first:
+      213: 5657332029968742800
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_5
+  - first:
+      213: 6934857299047891437
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_6
+  - first:
+      213: -7163412077079300429
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_7
+  - first:
+      213: -3400907771501696353
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_8
+  - first:
+      213: 6407714720050503870
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_9
+  - first:
+      213: 1878569999894945397
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_10
+  - first:
+      213: 6801750717763660317
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_11
+  - first:
+      213: 9040750467960377908
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_12
+  - first:
+      213: -2198417942024396764
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_13
+  - first:
+      213: 4589246918410233276
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_14
+  - first:
+      213: -330109063755973569
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_15
+  - first:
+      213: 1583097401153173403
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_16
+  - first:
+      213: -949987668956957415
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_17
+  - first:
+      213: -573986742792435737
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_18
+  - first:
+      213: -4671095170273013226
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_19
+  - first:
+      213: -3587764700046742177
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_20
+  - first:
+      213: -3888340985626611680
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_21
+  - first:
+      213: -6841019438748702131
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_22
+  - first:
+      213: -280178420651382298
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_23
+  - first:
+      213: 4778139169500487678
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_24
+  - first:
+      213: 4780815648734530476
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_25
+  - first:
+      213: -4526948085566060906
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_26
+  - first:
+      213: -3026365024067690562
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_27
+  - first:
+      213: 516686185480360465
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_28
+  - first:
+      213: -4072669480527064006
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_29
+  - first:
+      213: -7880954654062210613
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_30
+  - first:
+      213: -8912981238300723518
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_31
+  - first:
+      213: 1571741774552295024
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_32
+  - first:
+      213: -5163739322481899770
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_33
+  - first:
+      213: 1942210566944987882
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_34
+  - first:
+      213: -8606197793603912267
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_35
+  - first:
+      213: -2828570763197452292
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_36
+  - first:
+      213: -5331482455957154174
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_37
+  - first:
+      213: -3179498326160354332
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_38
+  - first:
+      213: 5953214184320262194
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_39
+  - first:
+      213: 6299380359451094473
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_40
+  - first:
+      213: 5433860564833531255
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_41
+  - first:
+      213: 3660363638104524842
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_42
+  - first:
+      213: 2556685676656968869
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_43
+  - first:
+      213: 6633866079027519610
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_44
+  - first:
+      213: 3374574419793681522
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_45
+  - first:
+      213: 5886960976107155807
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_46
+  - first:
+      213: 528262324081333849
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_47
+  - first:
+      213: 3921233818461145684
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_48
+  - first:
+      213: -457315907720534778
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_49
+  - first:
+      213: 1249616076641784200
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_50
+  - first:
+      213: 5809956307309636587
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_51
+  - first:
+      213: 9098493020270884043
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_52
+  - first:
+      213: 3811810583469336519
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_53
+  - first:
+      213: -2262603310946220800
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_54
+  - first:
+      213: -4273933680101795373
+    second: Player_hit
+  - first:
+      213: -8227178782172009527
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_56
+  - first:
+      213: 1500874164468250693
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_57
+  - first:
+      213: -1451856127767294990
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_58
+  - first:
+      213: 8484574482416723398
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_59
+  - first:
+      213: 8817601582013242776
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_60
+  - first:
+      213: -4855777113016572912
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_61
+  - first:
+      213: -6847018201511255460
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_62
+  - first:
+      213: 8358237594350349141
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_63
+  - first:
+      213: -5463580303958832450
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_64
+  - first:
+      213: -7700064335622193773
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_65
+  - first:
+      213: -5422750900284605847
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_66
+  - first:
+      213: 4020752652595834305
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_67
+  - first:
+      213: 3939110163962108957
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_68
+  - first:
+      213: -1717084546814053260
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_69
+  - first:
+      213: -5452146886929485074
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_70
+  - first:
+      213: -7929548357557825218
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_71
+  - first:
+      213: 379686092721645174
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_72
+  - first:
+      213: 7317296989305700391
+    second: Bullet
+  - first:
+      213: -73207293496713837
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_74
+  - first:
+      213: -5217445065182278689
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_75
+  - first:
+      213: 4263449402295779226
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_76
+  - first:
+      213: 5303974208964350136
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_77
+  - first:
+      213: -1703864129937476647
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_78
+  - first:
+      213: -900820684919675863
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_79
+  - first:
+      213: -3732385688093316800
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_80
+  - first:
+      213: 7888415017218368140
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_81
+  - first:
+      213: -5108250393616024229
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_82
+  - first:
+      213: 7541887449331917055
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_83
+  - first:
+      213: -2295531992854887405
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_84
+  - first:
+      213: -3598770989541798856
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_85
+  - first:
+      213: 83521809617482884
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_86
+  - first:
+      213: 216802184661136219
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_87
+  - first:
+      213: 4626568476910707531
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_88
+  - first:
+      213: 8337081616690669510
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_89
+  - first:
+      213: -2704098228729803823
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_90
+  - first:
+      213: 7571741889463519404
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_91
+  - first:
+      213: 1354359805899923651
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_92
+  - first:
+      213: 4824110642183352346
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_93
+  - first:
+      213: -9132961909776401582
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_94
+  - first:
+      213: 248880594091265226
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_95
+  - first:
+      213: 5535972052365225838
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_96
+  - first:
+      213: 8381597057282993783
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_97
+  - first:
+      213: -5119044140733802819
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_98
+  - first:
+      213: -5578231413202828972
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_99
+  - first:
+      213: -6739596414587947569
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_100
+  - first:
+      213: -1519508835730381638
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_101
+  - first:
+      213: -2726863528432747119
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_102
+  - first:
+      213: 6644565525980568857
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_103
+  - first:
+      213: 3185042443306510571
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_104
+  - first:
+      213: 2995207030151346478
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_105
+  - first:
+      213: -4953213043996555315
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_106
+  - first:
+      213: -6124066377113104439
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_107
+  - first:
+      213: -8203519636343738408
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_108
+  - first:
+      213: -6381446184259819458
+    second: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 379
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a262c2da2f5dc0800000000000000
+      internalID: -3648150088454067864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 377
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde10a616323f0400800000000000000
+      internalID: 292507708691586783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 377
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6f908791e62840800000000000000
+      internalID: 5199090860660059642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 381
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92549c49e2648d100800000000000000
+      internalID: 132933354886087977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 400
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362f42c3e7bf35f0800000000000000
+      internalID: -774698422039009732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 395
+        width: 22
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099f9b6e181e28e40800000000000000
+      internalID: 5657332029968742800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 391
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de146c598ff8d3060800000000000000
+      internalID: 6934857299047891437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 396
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f1f55ba2769c90800000000000000
+      internalID: -7163412077079300429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 392
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa6cd866c8dc0d0800000000000000
+      internalID: -3400907771501696353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e6ae9696cce850800000000000000
+      internalID: 6407714720050503870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 382
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e91793675021a10800000000000000
+      internalID: 1878569999894945397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 382
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aaf079d3ca46e50800000000000000
+      internalID: 6801750717763660317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 379
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43299b196a2377d70800000000000000
+      internalID: 9040750467960377908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 379
+        width: 22
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206ac98786ad71e0800000000000000
+      internalID: -2198417942024396764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 382
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e566e1c740bf30800000000000000
+      internalID: 4589246918410233276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c30b53e873b6bf0800000000000000
+      internalID: -330109063755973569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 345
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973490e2ba48f510800000000000000
+      internalID: 1583097401153173403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 345
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b1d29f37f0d2f0800000000000000
+      internalID: -949987668956957415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 345
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c21a391ac808f0800000000000000
+      internalID: -573986742792435737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 345
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61295dfe0bfec2fb0800000000000000
+      internalID: -4671095170273013226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 345
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d270c9303b53ec0800000000000000
+      internalID: -3587764700046742177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 340
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02032229976d90ac0800000000000000
+      internalID: -3888340985626611680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 341
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a67d3d011df01a0800000000000000
+      internalID: -6841019438748702131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 341
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9285bf53b9c1cf0800000000000000
+      internalID: -280178420651382298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 345
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd47d424c5f4240800000000000000
+      internalID: 4778139169500487678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 306
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab437fa08ed85240800000000000000
+      internalID: 4780815648734530476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696433373bc0d21c0800000000000000
+      internalID: -4526948085566060906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 307
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf57c38b013006d0800000000000000
+      internalID: -3026365024067690562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 307
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11298e12953ab2700800000000000000
+      internalID: 516686185480360465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 306
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341c957fa8fa77c0800000000000000
+      internalID: -4072669480527064006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc119a94f7931a290800000000000000
+      internalID: -7880954654062210613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63d5969cabe4480800000000000000
+      internalID: -8912981238300723518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 276
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e4d601d2ffc510800000000000000
+      internalID: 1571741774552295024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 276
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60700c2e176b658b0800000000000000
+      internalID: -5163739322481899770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 276
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea14c9683e14fa10800000000000000
+      internalID: 1942210566944987882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfc7d44b4a09880800000000000000
+      internalID: -8606197793603912267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 272
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff6f8590e5eeb8d0800000000000000
+      internalID: -2828570763197452292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 270
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286527624f4c206b0800000000000000
+      internalID: -5331482455957154174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e353493e1720e3d0800000000000000
+      internalID: -3179498326160354332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 244
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e93852c01e9250800000000000000
+      internalID: 5953214184320262194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 244
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda726bf05eb6750800000000000000
+      internalID: 6299380359451094473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 244
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f7e5d463f86b40800000000000000
+      internalID: 5433860564833531255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 244
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a280afdd5593cc230800000000000000
+      internalID: 3660363638104524842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 239
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c777b31c2b7320800000000000000
+      internalID: 2556685676656968869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 237
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e2f71d0a301c50800000000000000
+      internalID: 6633866079027519610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1ce73e85e4de20800000000000000
+      internalID: 3374574419793681522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 208
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51347b31dfa2b150800000000000000
+      internalID: 5886960976107155807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 206
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956171fe8c3c45700800000000000000
+      internalID: 528262324081333849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 206
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a00aed1650b6630800000000000000
+      internalID: 3921233818461145684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ae2ada9947a9f0800000000000000
+      internalID: -457315907720534778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 206
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d9d17337875110800000000000000
+      internalID: 1249616076641784200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 172
+        width: 26
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2bb1aa7c11a050800000000000000
+      internalID: 5809956307309636587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_52
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 171
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4fd903237544e70800000000000000
+      internalID: 9098493020270884043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 171
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a3c2a78546e430800000000000000
+      internalID: 3811810583469336519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058d67c64e9990e0800000000000000
+      internalID: -2262603310946220800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_hit
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 171
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d954f356ffefa4c0800000000000000
+      internalID: -4273933680101795373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 171
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cba101bc7033dd80800000000000000
+      internalID: -8227178782172009527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 174
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f0b1c91d24d410800000000000000
+      internalID: 1500874164468250693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 174
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc4774b88f9dbe0800000000000000
+      internalID: -1451856127767294990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 156
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5eaced9834fb570800000000000000
+      internalID: 8484574482416723398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 158
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d52d2dbe96e5a70800000000000000
+      internalID: 8817601582013242776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ec265170dc9cb0800000000000000
+      internalID: -4855777113016572912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 156
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a94809318af0a0800000000000000
+      internalID: -6847018201511255460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 157
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6197eecc6ef370800000000000000
+      internalID: 8358237594350349141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba86bc29a67d24b0800000000000000
+      internalID: -5463580303958832450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 117
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db59f8840e32590800000000000000
+      internalID: -7700064335622193773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3b1389c48eb4b0800000000000000
+      internalID: -5422750900284605847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 117
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd2fa31c359cc730800000000000000
+      internalID: 4020752652595834305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c9716e2d78aa630800000000000000
+      internalID: 3939110163962108957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 117
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f5d1c3b0bb28e0800000000000000
+      internalID: -1717084546814053260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 117
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f0550b451654b0800000000000000
+      internalID: -5452146886929485074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_71
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 117
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31db7608c594f190800000000000000
+      internalID: -7929548357557825218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 99
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67664da5d7ae44500800000000000000
+      internalID: 379686092721645174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200a93d7d24c8560800000000000000
+      internalID: 7317296989305700391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 30
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d192cba5aebfef0800000000000000
+      internalID: -73207293496713837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 98
+        width: 30
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb02be3b59e797b0800000000000000
+      internalID: -5217445065182278689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 95
+        width: 42
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff0b584a0da2b30800000000000000
+      internalID: 4263449402295779226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 86
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0572ff0708b9940800000000000000
+      internalID: 5303974208964350136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 86
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3fb8de998aa58e0800000000000000
+      internalID: -1703864129937476647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e90d1c54af73f0800000000000000
+      internalID: -900820684919675863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 78
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0492270edf6e33cc0800000000000000
+      internalID: -3732385688093316800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82682ed9a7497d60800000000000000
+      internalID: 7888415017218368140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d74c8e459db19b0800000000000000
+      internalID: -5108250393616024229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 78
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e7613daa2aa860800000000000000
+      internalID: 7541887449331917055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_84
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314075390d1a420e0800000000000000
+      internalID: -2295531992854887405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_85
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c41642ad89e0ec0800000000000000
+      internalID: -3598770989541798856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 64
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847f31b4aab82100800000000000000
+      internalID: 83521809617482884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 42
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537143307c320300800000000000000
+      internalID: 216802184661136219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436843648fd43040800000000000000
+      internalID: 4626568476910707531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c769420f8343b370800000000000000
+      internalID: 8337081616690669510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0cc6ecfc197ad0800000000000000
+      internalID: -2704098228729803823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80b64b12b341960800000000000000
+      internalID: 7571741889463519404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_92
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 52
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06bb85117abc210800000000000000
+      internalID: 1354359805899923651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103580e11fa2f240800000000000000
+      internalID: 4824110642183352346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_94
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 57
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bba941883314180800000000000000
+      internalID: -9132961909776401582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 57
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4c4ae493347300800000000000000
+      internalID: 248880594091265226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f28b33049b3dc40800000000000000
+      internalID: 5535972052365225838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 31
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eefc1bd1a615470800000000000000
+      internalID: 8381597057282993783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_98
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65402d97085f8b0800000000000000
+      internalID: -5119044140733802819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451ce1d95142692b0800000000000000
+      internalID: -5578231413202828972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_100
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 7
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53df2d4c42872a0800000000000000
+      internalID: -6739596414587947569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 29
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4293db3ce99eae0800000000000000
+      internalID: -1519508835730381638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d3cc4811c382ad0800000000000000
+      internalID: -2726863528432747119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd0e6342d363c50800000000000000
+      internalID: 6644565525980568857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_104
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a3d32a3b833c20800000000000000
+      internalID: 3185042443306510571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 22
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e297ce4bcec119920800000000000000
+      internalID: 2995207030151346478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc701cfcaf6a24bb0800000000000000
+      internalID: -4953213043996555315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8243a312f20ba0800000000000000
+      internalID: -6124066377113104439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_108
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2ac7da5e372e80800000000000000
+      internalID: -8203519636343738408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES color like GB Megaman sprites by IceLucario20xx on DeviantArt_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 22
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ebe9718c8077a0800000000000000
+      internalID: -6381446184259819458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
