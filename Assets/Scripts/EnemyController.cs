@@ -25,10 +25,14 @@ public class EnemyController : MonoBehaviour
     public int maxHealth = 1;
     public int contactDamage = 1;
     public int explosionDamage = 0;
+    public int bulletDamage = 1;
+    public float bulletSpeed = 3f;
+    public AudioClip damageClip;
+    public AudioClip blockAttackClip;
     public AudioClip shootBulletClip;
-    [SerializeField] AudioClip damageClip;
-    [SerializeField] AudioClip blockAttackClip;
-    [SerializeField] GameObject explodeEffectPrefab;
+    public GameObject bulletShootPos;
+    public GameObject bulletPrefab;
+    public GameObject explodeEffectPrefab;
 
     void Start()
     {
@@ -110,7 +114,7 @@ public class EnemyController : MonoBehaviour
             rb2d.constraints = rb2dConstraints;
         }
     }
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerStay2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
         {

@@ -73,9 +73,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -385642307
-  m_SortingLayer: 3
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 7317296989305700391, guid: d358538bc1308471dba72e9baf7c0f85, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -111,7 +111,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 477350218047814774}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -123,7 +123,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 0
   m_CollisionDetection: 1
-  m_Constraints: 6
+  m_Constraints: 4
 --- !u!114 &477350218047814771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -140,6 +140,28 @@ MonoBehaviour:
   bulletSpeed: 4
   bulletDirection: {x: 1, y: 0}
   destroyDelay: 2
+  collideWithTags:
+  - Enemy
+  bulletType: 0
+  bulletData:
+  - sprite: {fileID: 7317296989305700391, guid: d358538bc1308471dba72e9baf7c0f85, type: 3}
+    radius: 0.035
+    scale: {x: 1, y: 1, z: 1}
+  - sprite: {fileID: 8425831868980322597, guid: de0e8c09a724f43e1846c0e2891b18af, type: 3}
+    radius: 0.025
+    scale: {x: 1.5, y: 1.5, z: 0}
+  - sprite: {fileID: -5755390323242736845, guid: de0e8c09a724f43e1846c0e2891b18af, type: 3}
+    radius: 0.025
+    scale: {x: 1.5, y: 1.5, z: 0}
+  - sprite: {fileID: 3748546901667554805, guid: de0e8c09a724f43e1846c0e2891b18af, type: 3}
+    radius: 0.025
+    scale: {x: 1.5, y: 1.5, z: 0}
+  - sprite: {fileID: -7209892262054419045, guid: de0e8c09a724f43e1846c0e2891b18af, type: 3}
+    radius: 0.025
+    scale: {x: 1.5, y: 1.5, z: 0}
+  - sprite: {fileID: -7546013581096668113, guid: de0e8c09a724f43e1846c0e2891b18af, type: 3}
+    radius: 0.025
+    scale: {x: 1.5, y: 1.5, z: 0}
 --- !u!95 &497630291737411293
 Animator:
   serializedVersion: 3

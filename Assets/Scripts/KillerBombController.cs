@@ -54,8 +54,7 @@ public class KillerBombController : MonoBehaviour
             isFacingRight = false;
             enemyController.Flip();
         }
-
-         SetColor(killerBombColor);
+        SetColor(killerBombColor);
     }
 
 
@@ -63,7 +62,7 @@ public class KillerBombController : MonoBehaviour
     {
         animator.Play("KillerBomb_Flying");
 
-        //カメラに入る前のタイミングで動き出し画面外に飛んでいったらDestoroy
+        //カメラに入る前のタイミングで動き出し画面外に飛んでいったらDestroy
         float enemyDistance = Camera.main.transform.position.x - transform.position.x;
 
         if (enemyDistance > 1.8f)
