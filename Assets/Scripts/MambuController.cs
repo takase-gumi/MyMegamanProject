@@ -7,6 +7,7 @@ public class MambuController : MonoBehaviour
     Animator animator;
     Rigidbody2D rb2d;
     EnemyController enemyController;
+    PlayerController2D playerController2D;
 
     bool isFacingRight;
     bool isShooting;
@@ -32,6 +33,7 @@ public class MambuController : MonoBehaviour
     void Start()
     {
         enemyController = GetComponent<EnemyController>();
+        playerController2D = GetComponent<PlayerController2D>();
         animator = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
 
@@ -164,6 +166,22 @@ public class MambuController : MonoBehaviour
 
         SoundManager.Instance.Play(enemyController.shootBulletClip);
     }
+
+    //ここの関数で反射を実現したい
+    // public void ShootBulletReflection(GameObject player){
+    //     // player = GameObject.Find("Player");
+    //     GameObject bullet = Instantiate(enemyController.bulletPrefab);
+    //     bullet.name = enemyController.bulletPrefab.name;
+    //     bullet.transform.position = enemyController.bulletShootPos.transform.position;
+    //     bullet.GetComponent<BulletScript>().SetBulletType(BulletScript.BulletTypes.Default);
+    //     bullet.GetComponent<BulletScript>().SetDamageValue(enemyController.bulletDamage);
+    //     bullet.GetComponent<BulletScript>().SetBulletSpeed(enemyController.bulletSpeed);
+    //     bullet.GetComponent<BulletScript>().SetBulletDirection((player.transform.position.x - transform.position.x < 0) ? new Vector2(-1, 1) : new Vector2(1, 1));
+    //     bullet.GetComponent<BulletScript>().SetCollideWithTag("Player");
+    //     bullet.GetComponent<BulletScript>().SetDestroyDelay(5f);
+    //     bullet.GetComponent<BulletScript>().Shoot();
+    //     // SoundManager.Instance.Play(enemyController.shootBulletClip);
+    // }
 
     private void StartInvincibleAnimation()
     {

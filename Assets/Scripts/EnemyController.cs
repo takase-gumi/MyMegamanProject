@@ -34,6 +34,9 @@ public class EnemyController : MonoBehaviour
     public GameObject bulletPrefab;
     public GameObject explodeEffectPrefab;
 
+    // MambuController mambuController;
+    GameObject player;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -42,6 +45,9 @@ public class EnemyController : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
 
         currentHealth = maxHealth;
+
+        // mambuController = GetComponent<MambuController>();
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     public void Flip()
@@ -52,7 +58,6 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
     }
 
     public void Invincible(bool invincibility)
@@ -74,7 +79,9 @@ public class EnemyController : MonoBehaviour
         }
         else
         {
-            SoundManager.Instance.Play(blockAttackClip);
+            //無敵のときは反射
+            ShootBulletReflection(player);
+            // SoundManager.Instance.Play(blockAttackClip);
         }
     }
 
@@ -114,6 +121,22 @@ public class EnemyController : MonoBehaviour
             rb2d.constraints = rb2dConstraints;
         }
     }
+
+    //ここの関数で反射を実装
+    public void ShootBulletReflection(GameObject player){
+        GameObject bullet = Instantiate(bulletPrefab);
+        bullet.name = bulletPrefab.name;
+        bullet.transform.position = bulletShootPos.transform.position;
+        bullet.GetComponent<BulletScript>().SetBulletType(BulletScript.BulletTypes.Default);
+        bullet.GetComponent<BulletScript>().SetDamageValue(bulletDamage);
+        bullet.GetComponent<BulletScript>().SetBulletSpeed(bulletSpeed);
+        bullet.GetComponent<BulletScript>().SetBulletDirection((player.transform.position.x - transform.position.x < 0) ? new Vector2(-1, 1) : new Vector2(1, 1));
+        bullet.GetComponent<BulletScript>().SetCollideWithTag("Player");
+        bullet.GetComponent<BulletScript>().SetDestroyDelay(5f);
+        bullet.GetComponent<BulletScript>().Shoot();
+        SoundManager.Instance.Play(blockAttackClip);
+        // SoundManager.Instance.Play(enemyController.shootBulletClip);
+    }
     private void OnTriggerStay2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
@@ -124,4 +147,6 @@ public class EnemyController : MonoBehaviour
             player.TakeDamage(this.contactDamage);
         }
     }
+
+    //OnCollisionEnterで衝突座標を取得して跳ね返したい
 }

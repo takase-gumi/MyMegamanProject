@@ -100,6 +100,7 @@ public class PlayerController2D : MonoBehaviour
         {
             Invincible(!isInvincible);
             Debug.Log("Invincible:" + isInvincible);
+            // spriteRenderer.sortingOrder = 20;
         }
 
         if (Keyboard.current[Key.K].wasPressedThisFrame)

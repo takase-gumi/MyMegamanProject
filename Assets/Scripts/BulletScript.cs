@@ -81,7 +81,7 @@ public class BulletScript : MonoBehaviour
         this.destroyDelay = delay;
     }
 
-    //引数の個数を自動で伸び縮み(可変長引数)の書き方らしい。今ん所Enemyだけだが。
+    //引数の個数を自動で伸び縮み(可変長引数)の書き方らしい。今ん所Player,Enemyだけだが。
     public void SetCollideWithTag(params string[] tags)
     {
         this.collideWithTags = tags;
@@ -113,6 +113,7 @@ public class BulletScript : MonoBehaviour
             rb2d.velocity = bulletDirection * bulletSpeed;
         }
     }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         foreach (string tag in collideWithTags)
