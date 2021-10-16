@@ -29,12 +29,15 @@ public class PepeController : MonoBehaviour
     public float flyTime = 4f;
     public SpriteRenderer spriteRenderer;
 
-    void Start()
-    {
-        // Vector3[] Pepenobasho = path;
+    void Awake() {
         enemyController = GetComponent<EnemyController>();
         animator = enemyController.GetComponent<Animator>();
         spriteRenderer = enemyController.GetComponent<SpriteRenderer>();
+    }
+
+    void Start()
+    {
+        // Vector3[] Pepenobasho = path;
         this.tag = "Untagged";
 
 

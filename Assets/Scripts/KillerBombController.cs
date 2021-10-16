@@ -24,8 +24,6 @@ public class KillerBombController : MonoBehaviour
 
     // GameObject killerBomb;
 
-
-    // Start is called before the first frame update
     public Vector3[] path=
     {
         new Vector3(-2f, 0, 0),
@@ -39,12 +37,15 @@ public class KillerBombController : MonoBehaviour
     public float flyTime = 4f;
     public SpriteRenderer spriteRenderer;
 
-    void Start()
-    {
+    void Awake() {
         enemyController = GetComponent<EnemyController>();
         animator = enemyController.GetComponent<Animator>();
         spriteRenderer = enemyController.GetComponent<SpriteRenderer>();
         // spriteRenderer.sortingOrder = 0;
+    }
+
+    void Start()
+    {
         this.tag = "Untagged";
 
         //スプライトが右向いてる場合に左向けさす

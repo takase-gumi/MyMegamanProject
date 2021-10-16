@@ -29,13 +29,18 @@ public class MambuController : MonoBehaviour
 
     bool isEnemyAppear = false;
 
-    // Start is called before the first frame update
-    void Start()
-    {
+
+    void Awake() {
         enemyController = GetComponent<EnemyController>();
         playerController2D = GetComponent<PlayerController2D>();
         animator = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
+    }
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        this.tag = "Untagged";
 
         isFacingRight = true;
         if (moveDirection == MoveDirections.Left)

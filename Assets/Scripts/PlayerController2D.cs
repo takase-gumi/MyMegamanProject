@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using DG.Tweening;
 
 public class PlayerController2D : MonoBehaviour
 {
@@ -23,17 +24,23 @@ public class PlayerController2D : MonoBehaviour
     [SerializeField] private float jumpSpeed = 4.0f;
     [SerializeField] int bulletDamage = 1;
     [SerializeField] float bulletSpeed = 5f;
+    [SerializeField] float teleportSpeed = -10f;
     [SerializeField] Transform bulletShootPos;
     [SerializeField] GameObject bulletPrefab;
     [SerializeField] AudioClip jumpLandedClip;
     [SerializeField] AudioClip shootBulletClip;
+    [SerializeField] AudioClip teleportClip;
     [SerializeField] AudioClip takingDamageClip;
     [SerializeField] AudioClip explodeEffectClip;
 
     [SerializeField] GameObject explodeEffectPrefab;
+
+    public enum TeleportState {Descending, Landed, Idle};
+    [SerializeField] TeleportState teleportState;
     float shootTime;
     bool keyShootRelease;
     bool isTakingDamage;
+    bool isTeleporting;
     bool isInvincible = false;
     bool hitSideRight;
     public int currentHealth;
@@ -43,7 +50,18 @@ public class PlayerController2D : MonoBehaviour
     bool freezePlayer;
     bool freezeBullets;
 
+    bool GamePad = true;
     RigidbodyConstraints2D rb2dConstraints;
+
+    // void Awake() {
+    //     animator = GetComponent<Animator>();
+    //     rb2d = GetComponent<Rigidbody2D>();
+    //     spriteRenderer = GetComponent<SpriteRenderer>();
+    //     var playerInput = GetComponent<PlayerInput>();
+    //     move = playerInput.currentActionMap["Move"];
+    //     jump = playerInput.currentActionMap["Jump"];
+    //     shoot = playerInput.currentActionMap["Shoot"];
+    // }
     // Start is called before the first frame update
     void Start()
     {
@@ -54,13 +72,47 @@ public class PlayerController2D : MonoBehaviour
         move = playerInput.currentActionMap["Move"];
         jump = playerInput.currentActionMap["Jump"];
         shoot = playerInput.currentActionMap["Shoot"];
-
         isFacingRight = true;
         currentHealth = maxHealth;
+
+        if (Gamepad.current == null)
+        {
+            GamePad = false;
+        }
+
+#if UNITY_STANDALONE
+        GameObject.Find("InputCanvas").SetActive(false);
+#endif
+
     }
 
     private void Update()
     {
+        if (isTeleporting)
+        {
+            switch (teleportState)
+            {
+                case TeleportState.Descending:
+                    isJumping = false;
+                    Invoke("TeleportAnimationStart", 0.2f);
+                    //本当は下のコードでState切り替えて実現したかったが、なぜか出来ず。
+                    //しゃあないのでInvokeで無理やり実現。
+                    // if (isGrounded)
+                    // {
+                    //     teleportState = TeleportState.Landed;
+                    //     Debug.Log("Landed");
+                    // }
+                    break;
+                case TeleportState.Landed:
+                    animator.speed = 1;
+                    break;
+                case TeleportState.Idle:
+                    Teleport(false);
+                    break;
+            }
+            return;
+        }
+
         if (isTakingDamage)
         {
             animator.Play("Player_hit");
@@ -114,6 +166,11 @@ public class PlayerController2D : MonoBehaviour
             FreezePlayer(!freezePlayer);
             Debug.Log("Freeze Player:" + freezePlayer);
         }
+        if (Keyboard.current[Key.T].wasPressedThisFrame)
+        {
+            Teleport(true);
+            Debug.Log("Teleport(true)");
+        }
     }
     void PlayerDirectionInput()
     {
@@ -132,12 +189,24 @@ public class PlayerController2D : MonoBehaviour
 
     void PlayerMovement()
     {
-        if (Keyboard.current.spaceKey.wasPressedThisFrame)
+        if (GamePad == true)
         {
-            isJumpKeyPress = true;
+            if (Keyboard.current.spaceKey.wasPressedThisFrame || Gamepad.current.buttonSouth.wasPressedThisFrame)
+            {
+                isJumpKeyPress = true;
+            }else
+            {
+                isJumpKeyPress = false;
+            }
         }else
         {
-            isJumpKeyPress = false;
+            if (Keyboard.current.spaceKey.wasPressedThisFrame)
+            {
+                isJumpKeyPress = true;
+            }else
+            {
+                isJumpKeyPress = false;
+            }
         }
         // if (this.keyShoot >= InputSystem.settings.defaultButtonPressPoint)
         // {
@@ -247,13 +316,27 @@ public class PlayerController2D : MonoBehaviour
             //     rb2d.AddForce(new Vector2(0, -0.5f), ForceMode2D.Impulse);
             // }
         }
-        if (rb2d.velocity.y > 2 && Keyboard.current[Key.Space].wasReleasedThisFrame == true)
+
+        if (GamePad == true)
         {
-            rb2d.AddForce(new Vector2(0, -1.5f), ForceMode2D.Impulse);
-        }
-        else if(rb2d.velocity.y > 0 && Keyboard.current[Key.Space].wasReleasedThisFrame == true)
+            if (rb2d.velocity.y > 2 && (Keyboard.current[Key.Space].wasReleasedThisFrame || Gamepad.current[UnityEngine.InputSystem.LowLevel.GamepadButton.South].wasReleasedThisFrame) == true)
+            {
+                rb2d.AddForce(new Vector2(0, -1.5f), ForceMode2D.Impulse);
+            }
+            else if(rb2d.velocity.y > 0 && (Keyboard.current[Key.Space].wasReleasedThisFrame || Gamepad.current[UnityEngine.InputSystem.LowLevel.GamepadButton.South].wasReleasedThisFrame) == true)
+            {
+                rb2d.AddForce(new Vector2(0, -1.0f), ForceMode2D.Impulse);
+            }
+        }else
         {
-            rb2d.AddForce(new Vector2(0, -1.0f), ForceMode2D.Impulse);
+            if (rb2d.velocity.y > 2 && Keyboard.current[Key.Space].wasReleasedThisFrame == true)
+            {
+                rb2d.AddForce(new Vector2(0, -1.5f), ForceMode2D.Impulse);
+            }
+            else if(rb2d.velocity.y > 0 && Keyboard.current[Key.Space].wasReleasedThisFrame == true)
+            {
+                rb2d.AddForce(new Vector2(0, -1.0f), ForceMode2D.Impulse);
+            }
         }
     }
 
@@ -265,6 +348,7 @@ public class PlayerController2D : MonoBehaviour
         if (!freezeInput)
         {
             keyShoot = shoot.ReadValue<float>();
+            // keyPress = Keyboard.current[Key.Z].wasReleasedThisFrame;
         }
 
         if (this.keyShoot >= InputSystem.settings.defaultButtonPressPoint)
@@ -280,7 +364,7 @@ public class PlayerController2D : MonoBehaviour
             isShooting = true;
             keyShootRelease = false;
             shootTime = Time.time;
-            //キー押して撃った。弾丸位置調整したので遅延はいらないと判断。
+            //キー押して撃った。弾丸位置調整したので遅延はいらないと判断。後に調整するかも。
             Invoke("ShootBullet",0f);
             // Debug.Log("Shoot Bullet");
         }
@@ -325,7 +409,13 @@ public class PlayerController2D : MonoBehaviour
 
     public void Invincible(bool invincibility)
     {
+
         isInvincible = invincibility;
+    }
+
+    public void InvincibleDelay()
+    {
+        isInvincible = false;
     }
 
     public void TakeDamage(int damage)
@@ -370,7 +460,10 @@ public class PlayerController2D : MonoBehaviour
     void StopDamageAnimation()
     {
         isTakingDamage = false;
-        Invincible(false);
+        //InvincibleDelay関数によって無敵時間を延長したい、本当は点滅させてロックマン動かしたいが
+        Invoke("InvincibleDelay", 1f);
+        Blink();
+        // Invincible(false);
         FreezeInput(false);
         animator.Play("Player_hit", -1, 0f);
     }
@@ -418,5 +511,46 @@ public class PlayerController2D : MonoBehaviour
             animator.speed = 1;
             rb2d.constraints = rb2dConstraints;
         }
+    }
+
+    public void Teleport(bool teleport)
+    {
+        if (teleport)
+        {
+            isTeleporting = true;
+            FreezeInput(true);
+            animator.Play("Player_Teleport");
+            animator.speed = 0;
+            teleportState = TeleportState.Descending;
+            rb2d.velocity = new Vector2(rb2d.velocity.x, teleportSpeed);
+        }
+        else
+        {
+            isTeleporting = false;
+            FreezeInput(false);
+        }
+    }
+
+    void TeleportAnimationSound()
+    {
+        SoundManager.Instance.Play(teleportClip);
+    }
+
+    void TeleportAnimationStart()
+    {
+        teleportState = TeleportState.Landed;
+    }
+    void TeleportAnimationEnd()
+    {
+        teleportState = TeleportState.Idle;
+    }
+
+    //Blink関数で被ダメ後の無敵時間を点滅で実装する
+    void Blink()
+    {
+        spriteRenderer.color = new Color(1,1,1,1);
+        //DOFade、第1引数で透明に、第2引数で1秒間で
+        //SetEaseの第2引数は上記の間の点滅回数。偶数にすると元に戻る。奇数だと消えたところで終わる。
+        spriteRenderer.DOFade(0, 1f).SetEase(Ease.Flash, 10);
     }
 }

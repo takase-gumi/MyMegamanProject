@@ -80,6 +80,7 @@ public class GameManager : MonoBehaviour
             {
                 FreezePlayer(false);
                 FreezeEnemies(false);
+                TeleportPlayer(true);
                 screenMessageText.text = "";
                 playerReady = false;
             }
@@ -135,8 +136,8 @@ public class GameManager : MonoBehaviour
         playerReady = true;
         initReadyScreen = true;
         gamePlayerReadyTime = gamePlayerReadyDelay;
-        //スタート関数で取得してもシーン読み込みでリセットされるらしいのでここで取得する。
-        playerScoreText = GameObject.Find("PlayerScore").GetComponent<TextMeshProUGUI>();
+        //スタート関数で取得してもシーン読み込みでリセットされるらしいのでここで取得する。今はいらないのでコメントアウト
+        // playerScoreText = GameObject.Find("PlayerScore").GetComponent<TextMeshProUGUI>();
         screenMessageText = GameObject.Find("ScreenMessage").GetComponent<TextMeshProUGUI>();
         SoundManager.Instance.MusicSource.Play();
     }
@@ -175,6 +176,15 @@ public class GameManager : MonoBehaviour
         foreach (GameObject bullet in bullets)
         {
             bullet.GetComponent<BulletScript>().FreezeBullet(freeze);
+        }
+    }
+
+    private void TeleportPlayer(bool teleport)
+    {
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            player.GetComponent<PlayerController2D>().Teleport(teleport);
         }
     }
 

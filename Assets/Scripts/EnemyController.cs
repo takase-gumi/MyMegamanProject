@@ -37,12 +37,16 @@ public class EnemyController : MonoBehaviour
     // MambuController mambuController;
     GameObject player;
 
-    void Start()
-    {
+    //スクリプトやゲームオブジェクトの参照はStartよりもAwakeで取得するほうがいいらしい。値の取得は参照先のAwakeの処理が終わってない可能性がある為、やらない方がいいらしい。
+    void Awake() {
         animator = GetComponent<Animator>();
         box2d = GetComponent<BoxCollider2D>();
         rb2d = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    void Start()
+    {
 
         currentHealth = maxHealth;
 
